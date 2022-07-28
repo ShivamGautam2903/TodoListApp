@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotesAppFinal</string>
+    <string name="task_to_do">Task to do</string>
+    <string name="task_created_by">Task created by</string>
+</resources>
