@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">NotesAppFinal</string>
+    <string name="app_name">TodoList</string>
     <string name="task_to_do">Task to do</string>
     <string name="task_created_by">Task created by</string>
+    <string name="get_data_from_cloud">Get Data From Cloud</string>
+    <string name="clear">Clear</string>
+    <string name="save">Save</string>
 </resources>

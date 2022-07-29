@@ -2,7 +2,6 @@ package com.example.notesappfinal.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.example.notesappfinal.TodoX
 
 @Dao
 interface TodoDao {
@@ -16,4 +15,5 @@ interface TodoDao {
 
     @Query("SELECT * FROM todo_data_table")
     fun getAllTodos(): LiveData<List<TodoX>>
+
 }
